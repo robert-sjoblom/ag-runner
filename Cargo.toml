@@ -1,0 +1,10 @@
+[package]
+name = "no_instance_variables_in_partials"
+version = "0.1.0"
+authors = ["Robert Sjöblom <robert.sjoblom@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = { version = "0.3" }
